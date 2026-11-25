@@ -1,0 +1,56 @@
+#jorge {
+    justify-content: center;
+    display: flex;
+    text-align: center;
+    gap: 15px;
+    font-family: oblique
+}
+
+body {
+    background-color: rgb(31, 128, 128);
+}
+
+h1 {
+    color: white;
+    font-size: 50px;
+    font-style: oblique;
+    text-align: center;
+}
+
+h2 {
+    color: white;
+    text-align: center;
+}
+
+.cleide {
+    text-align: center;
+    font-size: 18px;
+    font-style: oblique;
+}
+
+.marlon {
+    text-align: center;
+}
+
+.meire {
+    text-align: center;
+    font-style: oblique;
+}
+
+
+.marlon {
+    text-align: center;
+    font-size: 22px;
+    color: rgb(248, 250, 255);
+}
+
+.meire {
+    color: white;
+    text-align: center;
+    font-size: 22px;
+}
+
+
+.oiu{background-color: rgb(0, 90, 90);
+
+}
